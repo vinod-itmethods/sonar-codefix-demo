@@ -23,3 +23,5 @@ scan produces real findings to fix live.
 5. Enable AI CodeFix for this project in Sonar Cloud
    (Organization > Administration > AI capabilities > AI CodeFix), provider
    Claude Sonnet 4.
+
+   testing

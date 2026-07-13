@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "itmethods-inc",
+        "projectKey": "vinod-itmethods_sonar-codefix-demo"
+    }
+}

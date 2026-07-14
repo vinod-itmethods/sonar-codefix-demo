@@ -1,0 +1,14 @@
+{
+  "sonarlint.connectedMode.connections.sonarqube": [
+    {
+      "connectionId": "sonarcloud",
+      "serverUrl": "https://sonarcloud.io",
+      "organizationKey": "itmethods-inc",
+      "token": "REPLACE_WITH_YOUR_SONARCLOUD_TOKEN"
+    }
+  ],
+  "sonarlint.connectedMode.project": {
+    "connectionId": "itmethods-inc",
+    "projectKey": "vinod-itmethods_sonar-codefix-demo"
+}
+}

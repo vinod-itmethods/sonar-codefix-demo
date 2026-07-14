@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "sonar-demo"
+    }
+  ],
+  "settings": {
+    "sonarlint.connectedMode.project": {
+      "connectionId": "itmethods-inc",
+      "projectKey": "vinod-itmethods_sonar-codefix-demo"
+    }
+  }
+}

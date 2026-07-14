@@ -6,5 +6,9 @@
       "organizationKey": "itmethods-inc",
       "token": "sqco_TEu8UH6yU7eja84lh0JWMnLV9rAg19u8zzVYS18jjszk364tOlUtqA31WIg"
     }
-  ]
+  ],
+  "sonarlint.connectedMode.project": {
+    "connectionId": "vinod-mac",
+    "projectKey": "vinod-itmethods_sonar-codefix-demo"
+  }
 }

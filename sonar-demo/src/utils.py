@@ -12,7 +12,7 @@ def read_config(path):
     try:
         with open(path) as f:
             return f.read()
-    except:
+    except Exception:
         return None
 
 

@@ -4,7 +4,7 @@
       "connectionId": "sonarcloud",
       "serverUrl": "https://sonarcloud.io",
       "organizationKey": "itmethods-inc",
-      "token": "sqco_TEu8UH6yU7eja84lh0JWMnLV9rAg19u8zzVYS18jjszk364tOlUtqA31WIg"
+      "token": ""
     }
   ],
   "sonarlint.connectedMode.project": {

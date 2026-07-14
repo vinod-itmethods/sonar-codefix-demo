@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__sonarqube__get_component_measures"
+    ]
+  }
+}

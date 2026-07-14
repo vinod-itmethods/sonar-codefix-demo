@@ -1,5 +1,5 @@
 {
     "sonarCloudOrganization": "itmethods-inc",
-    "projectKey": "vinod-itmethods_sonar-codefix-demo",
+    "projectKey": "sonar-codefix-demo",
     "region": "EU"
 }

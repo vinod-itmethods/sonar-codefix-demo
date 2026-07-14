@@ -4,11 +4,7 @@
       "connectionId": "sonarcloud",
       "serverUrl": "https://sonarcloud.io",
       "organizationKey": "itmethods-inc",
-      "token": "REPLACE_WITH_YOUR_SONARCLOUD_TOKEN"
+      "token": "sqco_TEu8UH6yU7eja84lh0JWMnLV9rAg19u8zzVYS18jjszk364tOlUtqA31WIg"
     }
-  ],
-  "sonarlint.connectedMode.project": {
-    "connectionId": "itmethods-inc",
-    "projectKey": "vinod-itmethods_sonar-codefix-demo"
-}
+  ]
 }

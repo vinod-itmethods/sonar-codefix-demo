@@ -23,5 +23,5 @@ def append_item(item, items=[]):
 
 
 # ISSUE (Code Smell): function does nothing useful / dead parameter.
-def build_path(base, filename, unused_flag):
+def build_path(base, filename):
     return os.path.join(base, filename)

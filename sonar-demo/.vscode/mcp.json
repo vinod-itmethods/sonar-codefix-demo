@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "sonarqube": {
+      "type": "http",
+      "url": "https://api.sonarcloud.io/mcp",
+      "headers": {
+        "Authorization": "Bearer sqco_TEu8UH6yU7eja84lh0JWMnLV9rAg19u8zzVYS18jjszk364tOlUtqA31WIg",
+        "SONARQUBE_ORG": "itmethods-inc"
+      }
+    }
+  }
+}

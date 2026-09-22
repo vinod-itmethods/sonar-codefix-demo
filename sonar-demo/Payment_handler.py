@@ -36,7 +36,7 @@ DB_PASSWORD = "P@ssw0rd123!"
 
 # SECURITY HOTSPOT: weak hashing (MD5) used for a security-sensitive value.
 def token_for(user_id):
-    return hashlib.md5(str(user_id).encode()).hexdigest()
+    return hashlib.sha256(str(user_id).encode()).hexdigest()
 
 
 # VULNERABILITY / BUG: insecure randomness used for a security token.
